@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://purple-coast-0df28261e.4.azurestaticapps.net/",
+  "homepage": "https://gentle-smoke-03965b500.4.azurestaticapps.net/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://purple-coast-0df28261e.4.azurestaticapps.net/'",
+    "build-gh": "parcel build --public-url 'https://gentle-smoke-03965b500.4.azurestaticapps.net/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
